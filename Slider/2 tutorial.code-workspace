@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../2 tutorial"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Slider"
+	}
+}

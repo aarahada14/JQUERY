@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 40px;
+    
+}
+
+.d-flex{
+ display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.containar{
+ 
+}
+.box{
+    padding: 10px;
+   ;
+    width: 25%;
+   
+}
+.sun{
+    display: none;
+}
+.box-sub{
+    box-shadow: 1px 1px 5px black;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+
+
+.theme{
+    background-color: black;
+    color: white;
+}
+
+.theme .box-sub{
+    box-shadow: 1px 1px 5px white;
+}
